@@ -1,0 +1,593 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+            "correct_answer": "&quot;A rainy Lithuanian \/ Is dancing as an Indian&quot;",
+            "incorrect_answers": [
+                "&quot;Fly away on, my zephyr \/ I feel it more than ever&quot;",
+                "&quot;And I liked the dimple in your chin \/ Your pale blue eyes&quot;",
+                "&quot;You used to be so warm and affectionate...but now you&#039;re quick to get into your regret&quot;"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Not including false teeth; A human has two sets of teeth in their lifetime.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Television",
+            "question": "In 2008, British celebrity chef Gordon Ramsay believes he almost died after suffering what accident in Iceland while filming?",
+            "correct_answer": "Slipping off a cliff, and nearly drowning in icy water",
+            "incorrect_answers": [
+                "Crash landing when arriving at Keflav&iacute;k airport",
+                "A minor car accident in a snowstorm",
+                "Being served under-cooked chicken at his hotel"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "How many points did LeBron James score in his first NBA game?",
+            "correct_answer": "25",
+            "incorrect_answers": [
+                "19",
+                "69",
+                "41"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Comics",
+            "question": "What are the names of the two &quot;Canon fan trolls&quot; in &quot;Homestuck&quot;?",
+            "correct_answer": "Mierfa Durgas and Nektan Whelan",
+            "incorrect_answers": [
+                "The Wrycrown and Voksea Olkido",
+                "Aikter Frekik and Xagrai Ollomu",
+                "Grekei Ceknux and Riya Camacho"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Animals",
+            "question": "What is the collective noun for bears?",
+            "correct_answer": "Sloth",
+            "incorrect_answers": [
+                "Drove",
+                "Tribe",
+                "Husk"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "Who is the main heroine of the anime, Full Metal Panic!",
+            "correct_answer": "Kaname Chidori",
+            "incorrect_answers": [
+                "Teletha Testarossa",
+                "Melissa Mao",
+                "Kyoko Tokiwa"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Animals",
+            "question": "What is the scientific name of the Budgerigar?",
+            "correct_answer": "Melopsittacus undulatus",
+            "incorrect_answers": [
+                "Nymphicus hollandicus",
+                "Pyrrhura molinae",
+                "Ara macao"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "Which of these bones is hardest to break?",
+            "correct_answer": "Femur",
+            "incorrect_answers": [
+                "Cranium",
+                "Humerus",
+                "Tibia"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Science: Computers",
+            "question": "Which programming language was developed by Sun Microsystems in 1995?",
+            "correct_answer": "Java",
+            "incorrect_answers": [
+                "Python",
+                "Solaris OS",
+                "C++"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "Frank Lloyd Wright was the architect behind what famous building?",
+            "correct_answer": "The Guggenheim",
+            "incorrect_answers": [
+                "Villa Savoye",
+                "Sydney Opera House",
+                "The Space Needle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What geometric shape is generally used for stop signs?",
+            "correct_answer": "Octagon",
+            "incorrect_answers": [
+                "Hexagon",
+                "Circle",
+                "Triangle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which one of these actors is said to be cut from the film &#039;E.T. the Extra-Terrestrial&#039;?",
+            "correct_answer": "Harrison Ford",
+            "incorrect_answers": [
+                "Michael J. Fox",
+                "Andy Kaufman",
+                "Arnold Schwarzenegger"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "What zodiac sign is represented by a pair of scales?",
+            "correct_answer": "Libra",
+            "incorrect_answers": [
+                "Aries",
+                "Capricorn",
+                "Sagittarius"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "Which of these Disney classics was released in 1970?",
+            "correct_answer": "The Aristocats",
+            "incorrect_answers": [
+                "One Hundred and One Dalmatians",
+                "The Fox and the Hound",
+                "The Little Mermaid"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the first Left 4 Dead, you can play as either of these four characters.",
+            "correct_answer": "Francis, Bill, Zoey, and Louis",
+            "incorrect_answers": [
+                "Bender, Andrew, Allison, and Brian",
+                "Coach, Ellis, Nick, and Rochelle",
+                "Harry, Ron, Hermione and Dumbledore"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "What was the final score of the Germany vs. Brazil 2014 FIFA World Cup match?",
+            "correct_answer": "7 - 1",
+            "incorrect_answers": [
+                "0 - 1",
+                "3 - 4",
+                "16 - 0"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the main protagonist in &quot;Xenoblade Chronicles&quot;?",
+            "correct_answer": "Shulk",
+            "incorrect_answers": [
+                "Reyn",
+                "Fiora",
+                "Dunban"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Science: Mathematics",
+            "question": "You can square root a negative number with an imaginary number &quot;i&quot;.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In the Kingdom Heart series who provides the english voice for Master Eraqus?",
+            "correct_answer": "Mark Hamill",
+            "incorrect_answers": [
+                "Jason Dohring",
+                "Jesse McCartney",
+                "Haley Joel Osment"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "In &quot;Call Of Duty: Zombies&quot;, which map introduced the perk &quot;PhD Flopper&quot;?",
+            "correct_answer": "Ascension",
+            "incorrect_answers": [
+                "Moon",
+                "Call Of The Dead",
+                "Die Rise"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "General Knowledge",
+            "question": "What are the three starter Pokemon available in Pokemon Black and White?",
+            "correct_answer": "Snivy, Tepig, Oshawott",
+            "incorrect_answers": [
+                "Snivy, Fennekin, Froakie",
+                "Chespin, Tepig, Froakie",
+                "Chespin, Fennekin, Oshawott"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science &amp; Nature",
+            "question": "What is the elemental symbol for mercury?",
+            "correct_answer": "Hg",
+            "incorrect_answers": [
+                "Me",
+                "Mc",
+                "Hy"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Film",
+            "question": "In the movie &quot;Blade Runner&quot;, what is the term used for human-like androids ?",
+            "correct_answer": "Replicants",
+            "incorrect_answers": [
+                "Cylons",
+                "Synthetics",
+                "Skinjobs"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which of the following is not in the Indo-European language family?",
+            "correct_answer": "Finnish",
+            "incorrect_answers": [
+                "English",
+                "Hindi",
+                "Russian"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Entertainment: Film",
+            "question": "The original ending of &quot;Little Shop Of Horrors&quot; has the plants taking over the world.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science: Computers",
+            "question": "Which of these is not a key value of Agile software development?",
+            "correct_answer": "Comprehensive documentation",
+            "incorrect_answers": [
+                "Individuals and interactions",
+                "Customer collaboration",
+                "Responding to change"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Science: Computers",
+            "question": "What is the most preferred image format used for logos in the Wikimedia database?",
+            "correct_answer": ".svg",
+            "incorrect_answers": [
+                ".png",
+                ".jpeg",
+                ".gif"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Science &amp; Nature",
+            "question": "Which of the following are cells of the adaptive immune system?",
+            "correct_answer": "Cytotoxic T cells",
+            "incorrect_answers": [
+                "Dendritic cells",
+                "Natural killer cells",
+                "White blood cells"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Geography",
+            "question": "What is the second-largest city in Lithuania?",
+            "correct_answer": "Kaunas",
+            "incorrect_answers": [
+                "Panev\u0117\u017eys",
+                "Vilnius",
+                "Klaip\u0117da"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "What is the smallest country in the world?",
+            "correct_answer": "Vatican City",
+            "incorrect_answers": [
+                "Maldives",
+                "Monaco",
+                "Malta"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Japanese Anime &amp; Manga",
+            "question": "In Chobits, Hideki found Chii in his apartment.",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "History",
+            "question": "Which Greek god was the god of the Sun?",
+            "correct_answer": "Helios",
+            "incorrect_answers": [
+                "Zeus",
+                "Hades",
+                "Poseidon"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "History",
+            "question": "With which Greek philosopher would you associate the phrase, &quot;I know that I know nothing&quot;?",
+            "correct_answer": "Socrates",
+            "incorrect_answers": [
+                "Aristotle",
+                "Plato",
+                "Pythagoras"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Art",
+            "question": "Which Van Gogh painting depicts the view from his asylum in Saint-R&eacute;my-de-Provence in southern France?",
+            "correct_answer": "The Starry Night",
+            "incorrect_answers": [
+                "Wheatfields with Crows",
+                "The Sower with Setting Sun",
+                "The Church at Auvers"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Music",
+            "question": "Which Twitch streamer is the vocalist for Red Vox?",
+            "correct_answer": "Vinesauce",
+            "incorrect_answers": [
+                "The8BitDrummer",
+                "LIRIK",
+                "Sodapoppin"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "Which of these songs is not by Tatsuro Yamashita?",
+            "correct_answer": "Lucky Lady Feel So Good ",
+            "incorrect_answers": [
+                "Merry-Go Round",
+                "Let&#039;s Dance Baby",
+                "Love Talkin&#039;"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Video Games",
+            "question": "What is the AK-47&#039;s name in Counter Strike: Source?",
+            "correct_answer": "CV-47",
+            "incorrect_answers": [
+                "AK-74",
+                "AK",
+                "CZ-75"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Television",
+            "question": "In &quot;Star Trek&quot;, what is the Klingon death ritual?",
+            "correct_answer": "Look into sky and yell loudly in mourning.",
+            "incorrect_answers": [
+                "Kiss the jagged forehead before burial.",
+                "Shoot into space in a torpedo casing.",
+                "Split the deceased&#039;s earnings between bloodkin."
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Vehicles",
+            "question": "Which car brand does NOT belong to General Motors?",
+            "correct_answer": "Ford",
+            "incorrect_answers": [
+                "Buick",
+                "Cadillac",
+                "Chevrolet"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of the alien species introduced in Shadow the Hedgehog (2005)?",
+            "correct_answer": "Black Arms",
+            "incorrect_answers": [
+                "The Swarm",
+                "Black Hive",
+                "The Eclipse"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Sports",
+            "question": "In bowling, what is the term used for getting three consecutive strikes?",
+            "correct_answer": "Turkey",
+            "incorrect_answers": [
+                "Flamingo",
+                "Birdie",
+                "Eagle"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "hard",
+            "category": "Entertainment: Music",
+            "question": "The heavy metal band Black Sabbath hail from which English city?",
+            "correct_answer": "Birmingham",
+            "incorrect_answers": [
+                "Manchester",
+                "London",
+                "Newcastle-Upon-Tyne"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Comics",
+            "question": "What is the full first name of the babysitter in Calvin and Hobbes?",
+            "correct_answer": "Rosalyn",
+            "incorrect_answers": [
+                "Rose",
+                "Ruby",
+                "Rachel"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "In the &quot;Half-Life&quot; series, &quot;H.E.V&quot; stands for &quot;Hazardous Evasiveness Vest&quot;",
+            "correct_answer": "False",
+            "incorrect_answers": [
+                "True"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "General Knowledge",
+            "question": "Five dollars is worth how many nickles?",
+            "correct_answer": "100",
+            "incorrect_answers": [
+                "50",
+                "25",
+                "69"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "medium",
+            "category": "Entertainment: Music",
+            "question": "Which country is singer Kyary Pamyu Pamyu from?",
+            "correct_answer": "Japan",
+            "incorrect_answers": [
+                "South Korea",
+                "China",
+                "Vietnam"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Entertainment: Video Games",
+            "question": "What is the name of Team Fortress 2&#039;s Heavy Weapons Guy&#039;s minigun?",
+            "correct_answer": "Sasha",
+            "incorrect_answers": [
+                "Betty",
+                "Anna",
+                "Diana"
+            ]
+        },
+        {
+            "type": "multiple",
+            "difficulty": "easy",
+            "category": "Geography",
+            "question": "The Space Needle is located in which city?",
+            "correct_answer": "Seattle",
+            "incorrect_answers": [
+                "Los Angles",
+                "Toronto",
+                "Vancouver"
+            ]
+        },
+        {
+            "type": "boolean",
+            "difficulty": "medium",
+            "category": "Geography",
+            "question": "The title of the 1969 film &quot;Krakatoa, East_of Java&quot; is incorrect, as Krakatoa is in fact west of Java.",
+            "correct_answer": "True",
+            "incorrect_answers": [
+                "False"
+            ]
+        }
+    ]
+}
